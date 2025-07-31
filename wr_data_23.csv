@@ -1,0 +1,141 @@
+name,position,status,current_team,season,targets,routes_run,targets_per_route_run,yards_per_route_run,air_yards_share,target_share,yards_after_catch_per_reception,fantasy_points_per_game
+CeeDee Lamb,WR,active,Dallas Cowboys,2023,181,606,0.2987,2.8861,35.875,29.9174,5.037,23.72
+Tyreek Hill,WR,active,Miami Dolphins,2023,171,464,0.3685,3.8772,43.9867,33.7278,5.479,23.53
+Keenan Allen,WR,active,Los Angeles Chargers,2023,150,501,0.2994,2.481,38.7252,31.9829,3.6667,21.45
+Amon-Ra St. Brown,WR,active,Detroit Lions,2023,164,562,0.2918,2.6957,33.2822,30.2026,5.6134,20.68
+Justin Jefferson,WR,active,Minnesota Vikings,2023,100,364,0.2747,2.9505,38.6839,27.1739,3.8235,20.22
+Puka Nacua,WR,active,Los Angeles Rams,2023,159,547,0.2907,2.7166,32.4725,28.7004,6.0857,17.56
+Nico Collins,WR,active,Houston Texans,2023,109,400,0.2725,3.2425,26.7057,22.7083,6.8625,17.36
+A.J. Brown,WR,active,Philadelphia Eagles,2023,158,562,0.2811,2.5907,38.2298,30.0952,4.4623,17.04
+D.J. Moore,WR,active,Chicago Bears,2023,136,582,0.2337,2.3436,38.9108,28.8747,5.6146,16.85
+Mike Evans,WR,active,Tampa Bay Buccaneers,2023,135,527,0.2562,2.3814,39.2828,24.5455,4.0759,16.62
+Ja'Marr Chase,WR,active,Cincinnati Bengals,2023,145,590,0.2458,2.061,33.9172,26.3158,5.41,16.42
+Deebo Samuel,WR,active,San Francisco 49ers,2023,89,364,0.2445,2.4505,16.8005,22.5316,8.7833,16.25
+Stefon Diggs,WR,active,Buffalo Bills,2023,160,584,0.274,2.0257,32.9348,29.4659,3.729,16.11
+Michael Pittman,WR,active,Indianapolis Colts,2023,156,555,0.2811,2.0757,31.7362,30.5284,4.7064,15.64
+Davante Adams,WR,active,Las Vegas Raiders,2023,175,563,0.3108,2.032,44.2474,33.1439,3.2621,15.61
+Brandon Aiyuk,WR,active,San Francisco 49ers,2023,105,422,0.2488,3.1801,37.9094,25,5.0933,15.58
+Amari Cooper,WR,active,Cleveland Browns,2023,128,531,0.2411,2.354,42.4045,23.5727,3.7639,15.13
+Tank Dell,WR,active,Houston Texans,2023,75,301,0.2492,2.3555,29.5498,20.3804,3.234,15
+Chris Olave,WR,active,New Orleans Saints,2023,138,539,0.256,2.0835,38.1686,25.1825,3.9885,14.46
+Devonta Smith,WR,active,Philadelphia Eagles,2023,112,583,0.1921,1.8285,30.0802,22.7642,3.6296,14.23
+Jaylen Waddle,WR,active,Miami Dolphins,2023,104,378,0.2751,2.6825,29.7565,23.4234,5.8472,14.19
+DK Metcalf,WR,active,Seattle Seahawks,2023,120,535,0.2243,2.0822,39.0802,22.9446,5.5606,14.09
+Cooper Kupp,WR,active,Los Angeles Rams,2023,95,371,0.2561,1.9865,26.8185,25.6065,5.4576,13.7
+Jakobi Meyers,WR,active,Las Vegas Raiders,2023,106,507,0.2091,1.5917,25.1652,20.9901,3.4085,13.66
+Adam Thielen,WR,active,Carolina Panthers,2023,137,612,0.2239,1.6569,23.0873,25.6554,3.3495,13.59
+Jayden Reed,WR,active,Green Bay Packers,2023,94,385,0.2442,2.0597,20.8602,17.5701,5.2344,13.58
+Calvin Ridley,WR,active,Jacksonville Jaguars,2023,136,635,0.2142,1.6,35.8543,22.5914,2.5526,13.52
+Rashee Rice,WR,active,Kansas City Chiefs,2023,102,372,0.2742,2.5215,12.5287,17.9262,8.2785,13.28
+DeAndre Hopkins,WR,active,Tennessee Titans,2023,136,489,0.2781,2.1616,41.5848,28.6316,2.9733,13.15
+Jordan Addison,WR,active,Minnesota Vikings,2023,108,581,0.1859,1.568,27.546,18.0905,3.7429,13.02
+Zay Flowers,WR,active,Baltimore Ravens,2023,108,513,0.2105,1.6725,23.2992,24.3792,5.0779,12.9
+Garrett Wilson,WR,active,New York Jets,2023,168,666,0.2523,1.5646,42.707,30.0537,3.4421,12.54
+Christian Kirk,WR,active,Jacksonville Jaguars,2023,85,371,0.2291,2.1213,26.453,20.8333,4.3333,12.52
+Kendrick Bourne,WR,active,New England Patriots,2023,55,227,0.2423,1.7885,27.4904,20.2206,5.4865,12.5
+Chris Godwin,WR,active,Tampa Bay Buccaneers,2023,131,556,0.2356,1.8417,24.1344,23.8182,4.6386,12.31
+Terry McLaurin,WR,active,Washington Commanders,2023,130,639,0.2034,1.5681,31.4994,21.6306,4.4304,12.31
+George Pickens,WR,active,Pittsburgh Steelers,2023,106,519,0.2042,2.1965,37.7678,21.9008,6.1587,12.28
+Tyler Lockett,WR,active,Seattle Seahawks,2023,122,550,0.2218,1.6255,32.0796,22.3035,2.6582,11.91
+Courtland Sutton,WR,active,Denver Broncos,2023,90,445,0.2022,1.7348,30.1136,20.2703,2.6441,11.89
+Diontae Johnson,WR,active,Pittsburgh Steelers,2023,87,352,0.2472,2.0369,38.0592,23.5135,4.9804,11.75
+Tee Higgins,WR,active,Cincinnati Bengals,2023,76,379,0.2005,1.7309,35.8511,17.8824,5.5952,11.47
+Christian Watson,WR,active,Green Bay Packers,2023,53,267,0.1985,1.5805,31.6544,17.6667,3.75,11.26
+Drake London,WR,active,Atlanta Falcons,2023,109,473,0.2304,1.9133,31.6283,23.3405,2.7246,10.9
+Brandin Cooks,WR,active,Dallas Cowboys,2023,81,504,0.1607,1.3036,23.0686,14.2606,2.3148,10.83
+Josh Palmer,WR,active,Los Angeles Chargers,2023,61,323,0.1889,1.7988,25.0542,17.1831,5.1579,10.67
+Rashid Shaheed,WR,active,New Orleans Saints,2023,75,429,0.1748,1.676,23.6387,14.2857,3.2826,10.37
+Romeo Doubs,WR,active,Green Bay Packers,2023,96,507,0.1893,1.3294,22.812,17.1123,2.2712,10.26
+Noah Brown,WR,active,Houston Texans,2023,55,278,0.1978,2.0396,22.1773,16.9231,6.7576,10.16
+Curtis Samuel,WR,active,Washington Commanders,2023,91,405,0.2247,1.5136,13.6592,16.3375,4.1935,9.83
+Marquise Brown,WR,active,Arizona Cardinals,2023,101,451,0.2239,1.2727,32.7417,22.7991,3.2157,9.62
+Gabriel Davis,WR,active,Buffalo Bills,2023,81,556,0.1457,1.3417,24.2877,14.9171,4,9.49
+Josh Downs,WR,active,Indianapolis Colts,2023,98,484,0.2025,1.593,16.6275,17.9487,5.4559,9.24
+Michael Thomas,WR,active,New Orleans Saints,2023,64,325,0.1969,1.3785,19.4669,17.6796,2.5641,8.98
+Darius Slayton,WR,active,New York Giants,2023,79,538,0.1468,1.4312,25.3834,16.3223,5.96,8.88
+Wan'Dale Robinson,WR,active,New York Giants,2023,78,385,0.2026,1.3636,12.4924,18.5714,4.7833,8.88
+Jerry Jeudy,WR,active,Denver Broncos,2023,87,450,0.1933,1.6844,30.5931,19.6388,5.9815,8.86
+Jaxon Smith-Njigba,WR,active,Seattle Seahawks,2023,93,471,0.1975,1.3333,13.8073,17.0018,5.8095,8.81
+Michael Wilson,WR,active,Arizona Cardinals,2023,58,403,0.1439,1.402,21.7762,13.6792,3.6579,8.81
+Zay Jones,WR,active,Jacksonville Jaguars,2023,64,303,0.2112,1.0594,28.1786,18.3908,1.5,8.68
+Tyler Boyd,WR,active,Cincinnati Bengals,2023,98,544,0.1801,1.2261,16.3632,16.5821,4.1642,8.58
+Dontayvion Wicks,WR,active,Green Bay Packers,2023,58,281,0.2064,2.0676,13.7012,11.67,5.4103,7.98
+Elijah Moore,WR,active,Cleveland Browns,2023,104,551,0.1887,1.1615,24.3036,17.4204,3.2373,7.77
+DJ Chark,WR,active,Carolina Panthers,2023,66,462,0.1429,1.1364,25.925,14.0725,2.4,7.7
+Odell Beckham,WR,active,Baltimore Ravens,2023,64,274,0.2336,2.062,24.6598,16.1616,4.4286,7.68
+DeMario Douglas,WR,active,New England Patriots,2023,78,315,0.2476,1.781,18.6749,16.9565,6.8571,7.66
+Josh Reynolds,WR,active,Detroit Lions,2023,64,457,0.14,1.3217,15.8555,11.2281,4.325,7.55
+K.J. Osborn,WR,active,Minnesota Vikings,2023,75,531,0.1412,1.0169,14.2548,13.2743,3.8542,7.5
+Jahan Dotson,WR,active,Washington Commanders,2023,83,626,0.1326,0.8275,16.1277,13.8103,2.3469,7.34
+Khalil Shakir,WR,active,Buffalo Bills,2023,45,317,0.142,1.9274,8.5861,8.9286,7.2308,7.07
+Tutu Atwell,WR,active,Los Angeles Rams,2023,67,396,0.1692,1.2197,17.9164,12.8352,2.6667,7.03
+Jameson Williams,WR,active,Detroit Lions,2023,41,236,0.1737,1.5,22.5556,9.8321,4.375,6.69
+Robert Woods,WR,active,Houston Texans,2023,75,393,0.1908,1.084,17.1068,15.9915,3.15,6.38
+Rondale Moore,WR,active,Arizona Cardinals,2023,62,468,0.1325,0.7521,7.6795,11.4815,5.4,6.18
+Nick Westbrook-Ikhine,WR,active,Tennessee Titans,2023,45,308,0.1461,1.2013,13.4013,11.2219,3.8214,6.07
+Kalif Raymond,WR,active,Detroit Lions,2023,44,232,0.1897,2.1078,9.5379,7.7193,6.1143,5.73
+Nelson Agholor,WR,active,Baltimore Ravens,2023,45,345,0.1304,1.1043,10.2451,9.5949,4.0286,5.71
+Alex Erickson,WR,active,New York Jets,2023,29,171,0.1696,1.3567,13.1638,9.699,3.3125,5.65
+Brandon Johnson,WR,active,Denver Broncos,2023,30,200,0.15,1.42,10.3145,8.0214,4.6842,5.65
+Jonathan Mingo,WR,active,Carolina Panthers,2023,85,520,0.1635,0.8038,21.7525,17.5258,3.6047,5.65
+Trey Palmer,WR,active,Tampa Bay Buccaneers,2023,68,444,0.1532,0.8671,15.2721,12.3636,2.641,5.63
+Alec Pierce,WR,active,Indianapolis Colts,2023,65,593,0.1096,0.8668,22.7893,11.9048,3.0312,5.61
+DeVante Parker,WR,active,New England Patriots,2023,55,336,0.1637,1.1726,21.3904,14.0306,3.8182,5.57
+Justin Watson,WR,active,Kansas City Chiefs,2023,53,332,0.1596,1.3855,24.8527,9.4982,1.7407,5.56
+JuJu Smith-Schuster,WR,active,New England Patriots,2023,47,226,0.208,1.1504,11.0577,12.8767,3.2414,5.55
+Quentin Johnston,WR,active,Los Angeles Chargers,2023,67,470,0.1426,0.917,18.2472,10.9121,4,5.53
+Demarcus Robinson,WR,active,Los Angeles Rams,2023,39,199,0.196,1.8643,13.9766,7.5,3.4231,5.46
+Darnell Mooney,WR,active,Chicago Bears,2023,60,440,0.1364,0.9409,18.5998,14.0845,5.8387,5.26
+Michael Gallup,WR,active,Dallas Cowboys,2023,57,393,0.145,1.0636,13,9.4215,3.0588,5.16
+Rashod Bateman,WR,active,Baltimore Ravens,2023,56,328,0.1707,1.1189,20.4798,12.3894,1.8438,4.78
+Cedrick Wilson,WR,active,Miami Dolphins,2023,38,261,0.1456,1.1341,12.1771,8.2251,2.5909,4.64
+Tre Tucker,WR,active,Las Vegas Raiders,2023,34,212,0.1604,1.5613,15.2121,6.7729,1.4737,4.49
+Marvin Mims,WR,active,Denver Broncos,2023,33,247,0.1336,1.5263,14.1193,7.4324,7,4.42
+Parker Washington,WR,active,Jacksonville Jaguars,2023,21,178,0.118,0.7416,5.6631,6.3444,2.125,4.36
+Allen Lazard,WR,active,New York Jets,2023,49,442,0.1109,0.7036,17.1011,10.5832,2.4348,4.29
+Kadarius Toney,WR,active,Kansas City Chiefs,2023,38,142,0.2676,1.1901,3.2501,8.1197,4.7407,4.08
+Greg Dortch,WR,active,Arizona Cardinals,2023,41,238,0.1723,1.1765,11.7576,8.1349,6.3333,4.03
+Chris Moore,WR,active,Tennessee Titans,2023,35,287,0.122,1.4774,13.9926,7.3684,2.5909,4.02
+Jauan Jennings,WR,active,San Francisco 49ers,2023,33,220,0.15,1.2045,11.093,9.621,4.6842,3.96
+Brandon Powell,WR,active,Minnesota Vikings,2023,44,275,0.16,1.1782,7.845,7.3702,3.5862,3.95
+Quez Watkins,WR,active,Philadelphia Eagles,2023,21,188,0.1117,0.7553,9.5554,7.4205,3.0667,3.91
+Trenton Irwin,WR,active,Cincinnati Bengals,2023,32,251,0.1275,1.259,9.6286,5.8716,4.4,3.91
+Skyy Moore,WR,active,Kansas City Chiefs,2023,38,257,0.1479,0.9494,9.3828,7.6,5.1905,3.84
+Jamal Agnew,WR,active,Jacksonville Jaguars,2023,20,141,0.1418,1.5957,8.5734,5.3333,5.4286,3.66
+Terrace Marshall,WR,active,Carolina Panthers,2023,33,209,0.1579,0.6651,10.8875,10.8197,2.5263,3.66
+Allen Robinson,WR,active,Pittsburgh Steelers,2023,49,382,0.1283,0.733,9.7858,10.124,2,3.65
+Treylon Burks,WR,active,Tennessee Titans,2023,30,256,0.1172,0.8633,18.1306,9.5541,4.4375,3.63
+Braxton Berrios,WR,active,Miami Dolphins,2023,33,318,0.1038,0.7484,5.7365,6.5868,3.1481,3.62
+Jalin Hyatt,WR,active,New York Giants,2023,40,385,0.1039,0.9688,22.2369,8.2645,2.087,3.55
+Isaiah Hodgins,WR,active,New York Giants,2023,33,279,0.1183,0.8244,6.954,6.8182,3.5714,3.53
+Marquez Valdes-Scantling,WR,active,Kansas City Chiefs,2023,42,427,0.0984,0.7377,18.9334,7.3814,4.381,3.53
+Jalen Tolbert,WR,active,Dallas Cowboys,2023,36,240,0.15,1.1167,9.875,5.9504,1.5455,3.46
+Kyle Philips,WR,active,Tennessee Titans,2023,22,104,0.2115,1.7404,7.899,8.4291,5.2667,3.46
+Xavier Gipson,WR,active,New York Jets,2023,38,342,0.1111,0.6696,10.6295,6.7979,5.1905,3.45
+Jake Bobo,WR,active,Seattle Seahawks,2023,25,144,0.1736,1.3611,3.6399,4.5704,4.5789,3.35
+Mack Hollins,WR,active,Atlanta Falcons,2023,30,157,0.1911,1.5987,10.3816,7.1259,3.0556,3.32
+David Bell,WR,active,Cleveland Browns,2023,23,132,0.1742,1.2652,3.4449,4.2831,5.2143,3.25
+Andrei Iosivas,WR,active,Cincinnati Bengals,2023,25,137,0.1825,0.8467,5.9789,4.4643,2.3333,3.16
+Cedric Tillman,WR,active,Cleveland Browns,2023,44,343,0.1283,0.6531,12.0278,8.8176,4.1905,3.16
+Jalen Guyton,WR,active,Los Angeles Chargers,2023,21,171,0.1228,0.5205,10.8242,7.3427,3.2,3.11
+Calvin Austin,WR,active,Pittsburgh Steelers,2023,30,221,0.1357,0.8145,9.9974,6.1983,4.2941,3.1
+Tyquan Thornton,WR,active,New England Patriots,2023,23,127,0.1811,0.7165,12.6582,8.3636,3.8462,3.02
+Hunter Renfrow,WR,active,Las Vegas Raiders,2023,37,255,0.1451,1,4.8308,7.0076,6.08,2.85
+Jalen Reagor,WR,active,Minnesota Vikings,2023,24,190,0.1263,0.7263,15.9071,7.4303,2.5714,2.59
+Malik Heath,WR,active,Green Bay Packers,2023,24,115,0.2087,1.087,5.5836,5.6338,2.3333,2.58
+Mecole Hardman,WR,active,New York Jets,2023,24,95,0.2526,1.3053,5.3895,7.362,7.2,2.57
+Parris Campbell,WR,active,New York Giants,2023,27,143,0.1888,0.7273,4.0319,8.1325,3.25,2.53
+Deonte Harty,WR,active,Buffalo Bills,2023,21,99,0.2121,1.5152,4.9262,4.251,5.2667,2.5
+Van Jefferson,WR,active,Los Angeles Rams,2023,43,355,0.1211,0.5887,14.0315,7.919,1.25,2.43
+Olamide Zaccheaus,WR,active,Philadelphia Eagles,2023,20,296,0.0676,0.5541,4.2707,3.8095,5.2,2.26
+Khadarel Hodge,WR,active,Atlanta Falcons,2023,23,176,0.1307,1.3182,7.6267,4.5908,5.8571,2.19
+Jamison Crowder,WR,active,New York Giants,2023,20,83,0.241,1.9157,3.9153,3.3278,5,2.11
+Tyler Scott,WR,active,Chicago Bears,2023,32,226,0.1416,0.7434,9.7343,6.7941,4.1176,2.11
+Dyami Brown,WR,active,Washington Commanders,2023,23,158,0.1456,1.0633,8.1268,3.827,6.3333,2.06
+Deven Thompkins,WR,active,Tampa Bay Buccaneers,2023,25,125,0.2,0.664,3.1533,4.5455,4.9412,2.05
+John Metchie,WR,active,Houston Texans,2023,30,168,0.1786,0.9405,5.4087,5.8939,5.25,2.01
+Donovan Peoples-Jones,WR,active,Cleveland Browns,2023,25,244,0.1025,0.6352,6.861,5.0403,2.6923,1.9
+Chase Claypool,WR,active,Chicago Bears,2023,21,114,0.1842,0.6754,9.3839,5.7377,3.125,1.81
+Byron Pringle,WR,active,Washington Commanders,2023,22,100,0.22,1.61,6.5548,3.6606,2.2143,1.65
+Trent Sherfield,WR,active,Buffalo Bills,2023,22,172,0.1279,0.5,4.0581,4.3651,4.4545,1.6
+Sterling Shepard,WR,active,New York Giants,2023,22,86,0.2558,0.6628,4.415,4.8673,3.3,1.35

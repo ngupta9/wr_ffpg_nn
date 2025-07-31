@@ -1,0 +1,17 @@
+name: ffpg_nn
+channels:
+  - pytorch
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.11
+  - pytorch
+  - torchvision
+  - pandas>=1.5.0
+  - numpy>=1.21.0
+  - matplotlib>=3.5.0
+  - jupyter>=1.0.0
+  - ipykernel>=6.0.0
+  - pip
+  - pip:
+    - plotly>=5.0.0
