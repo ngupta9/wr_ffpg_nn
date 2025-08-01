@@ -15,7 +15,7 @@ This project uses machine learning to predict wide receiver fantasy football per
 
 ### Model Architecture
 - **Input Layer**: 5 features
-- **Hidden Layer**: 2 neurons with LeakyReLU activation
+- **Hidden Layer**: 16 neurons with LeakyReLU activation
 - **Output Layer**: 1 neuron with ReLU activation (FFPG prediction)
 - **Loss Function**: Mean Squared Error (MSE)
 - **Optimizer**: Adam
@@ -96,15 +96,16 @@ The neural network demonstrates promising correlation between the selected WR me
 *Validation on 2023 season shows the model's ability to generalize to unseen data, with reasonable predictions for most players.*
 
 ### Key Findings
-- The 5 selected receiving metrics show strong predictive power for FFPG
-- Neural network outperforms simple polynomial regression, especially for high and low-end performers
+- The 5 selected receiving metrics show strong predictive power for FFPG (R² > 0.94)
+- Neural network outperforms polynomial regression by 17% lower MSE on validation data
 - Model effectively captures non-linear relationships in fantasy football performance
 - Interactive visualizations reveal specific player predictions and performance gaps
 
 ### Model Performance Metrics
-- **Final Training Loss**: ~0.70 MSE
-- **Architecture**: Lightweight 2-neuron hidden layer proves sufficient
-- **Convergence**: Model converges in ~190 epochs
+- **Training Performance**: Neural Network MSE: 2.29, R²: 0.90 vs Polynomial Regression MSE: 2.31, R²: 0.90
+- **Validation Performance**: Neural Network MSE: 1.40, R²: 0.95 vs Polynomial Regression MSE: 1.70, R²: 0.94
+- **Architecture**: 16-neuron hidden layer proves effective for this dataset
+- **Convergence**: Model uses saved weights for consistent results
 
 ## Technical Details
 
@@ -132,6 +133,7 @@ See `environment.yml` for complete dependency list. Key packages:
 - **NumPy**: Numerical computations
 - **Plotly**: Interactive visualizations
 - **Matplotlib**: Additional plotting capabilities
+- **Scikit-learn**: Model comparison and metrics
 - **Jupyter**: Notebook environment
 
 ## Author
