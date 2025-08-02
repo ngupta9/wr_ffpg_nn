@@ -81,12 +81,12 @@ jupyter notebook
 The neural network demonstrates promising correlation between the selected WR metrics and fantasy football performance:
 
 ### Training Performance (2018-2022 Data)
-![Training Results](training_18-22.png)
+![Training Results](plots/training_18-22.png)
 
 *The model successfully learns patterns from historical data, with the neural network capturing non-linear relationships better than simple polynomial regression.*
 
 ### Validation Performance (2023 Data)
-![Validation Results](validation_23.png)
+![Validation Results](plots/validation_23.png)
 
 *Validation on 2023 season shows the model's ability to generalize to unseen data, with reasonable predictions for most players.*
 
