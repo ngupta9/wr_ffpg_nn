@@ -76,11 +76,6 @@ jupyter notebook
    - Validate on 2023 data
    - Display results with player hover tooltips
 
-### Key Features
-- **Model Persistence**: Trained model weights are automatically saved and loaded
-- **Interactive Visualizations**: Plotly plots with player name and stats on hover
-- **Performance Comparison**: Neural network predictions vs. polynomial regression baseline
-
 ## Results
 
 The neural network demonstrates promising correlation between the selected WR metrics and fantasy football performance:
