@@ -97,10 +97,18 @@ The neural network demonstrates promising correlation between the selected WR me
 - Interactive visualizations reveal specific player predictions and performance gaps
 
 ### Model Performance Metrics
-- **Training Performance**: Neural Network MSE: 2.29, R²: 0.90 vs Polynomial Regression MSE: 2.31, R²: 0.90
-- **Validation Performance**: Neural Network MSE: 1.40, R²: 0.95 vs Polynomial Regression MSE: 1.70, R²: 0.94
+
+| Metric | Neural Network | Polynomial Regression |
+|--------|----------------|----------------------|
+| **Training MSE** | 2.29 | 2.31 |
+| **Training R²** | 0.90 | 0.90 |
+| **Validation MSE** | 1.40 | 1.70 |
+| **Validation R²** | 0.95 | 0.94 |
+
+**Key Insights:**
 - **Architecture**: 16-neuron hidden layer proves effective for this dataset
 - **Convergence**: Model uses saved weights for consistent results
+- **Winner**: Neural Network shows superior validation performance (lower MSE, higher R²)
 
 ## Technical Details
 
