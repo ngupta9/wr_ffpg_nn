@@ -55,7 +55,7 @@ python -c "import torch; import pandas; import numpy; import matplotlib; import 
 ```
 
 ### Required Files
-Ensure you have the following data files in your project directory:
+Ensure you have the following data files in your data directory:
 - `wr_data_18-22.csv` - Training data (2018-2022 seasons)
 - `wr_data_23.csv` - Validation data (2023 season)
 
@@ -71,7 +71,7 @@ jupyter notebook
 2. **Open and run** `WR_FFPG_NN.ipynb`
 
 3. **Model Training**: The notebook will automatically:
-   - Load or train the model (saves weights to `ffpg_model.pt`)
+   - Load or train the model (saves weights to `models/ffpg_model.pt`)
    - Generate interactive training performance plots
    - Validate on 2023 data
    - Display results with player hover tooltips
